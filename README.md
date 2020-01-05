@@ -1,2 +1,2 @@
 # PONG
-jogo pong em CSS
+jogo pong em JavaScript
